@@ -76,3 +76,6 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
 * T2/T3 Flair by [Clover](https://vgen.co/queenclovervt)
+
+### Bits Badges
+* Bits Badges by [Sevi Yummy](https://ko-fi.com/s/b6ef08f75f)
