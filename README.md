@@ -72,6 +72,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarPadoru by [ElitheInanna](https://vgen.co/elitheinanna)
 * nyavarDance by [ichiibal_Sage](https://vgen.co/ichiibal_Sage)
 * nyavarKlaus by [SellsoTheHound](https://twitch.tv/sellsothehound)
+* nyavarAbwah - original by [RinnyBooo](https://vgen.co/rinnybooo), cropped for the emote
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
