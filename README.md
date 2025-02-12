@@ -1,5 +1,8 @@
 # Credits
 
+## Profile Picture
+* The long sleeved white shirt profile picture is comissioned art by [ashleyy](https://vgen.co/eggromi)
+
 ## VRChat Avatar
 
 My VRChat avatar was kitbashed in Unity by myself!  However, it's made up of many different pieces parts each with their own creators:
