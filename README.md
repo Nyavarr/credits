@@ -24,6 +24,7 @@ My VRChat avatar was kitbashed in Unity by myself!  However, it's made up of man
 * [Throwable Dodge Ball by POINTLESS](https://pointlesscreations.gumroad.com/)
 * [VRChair Reactive Seating by Wuffwick](https://wuffwick.gumroad.com/)
 * [TiktokToOSC by Hyroe](https://hyroe.gumroad.com/)
+* [Slap Fish by DittyDos](<https://dittydos.gumroad.com/l/pacjuc>)
 
 ## 3D VTuber
 
