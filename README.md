@@ -77,6 +77,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarDance by [ichiibal_Sage](https://vgen.co/ichiibal_Sage)
 * nyavarKlaus by [SellsoTheHound](https://twitch.tv/sellsothehound)
 * nyavarAbwah - original by [RinnyBooo](https://vgen.co/rinnybooo), cropped for the emote
+* nyavarHeart by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-floating-kiss-ych-emote/2cbf3629-2f4a-4015-ba80-1a6ec83ef61d)
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
