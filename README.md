@@ -52,6 +52,10 @@ My Magpie version of the VRChat Rex was converted to VRM by [Amoriel](https://vg
 
 The Tanuki Stream Pet is a Live 2D model created by [SellsoTheHound](https://twitch.tv/sellsothehound)
 
+## Reactive Avatar (on other's streams)
+
+The reactive Avatar (both the maid and furry nyavarr) were created by [Hiina](https://linktr.ee/hiinafuraido)
+
 ## Stream Assets
 
 ### Logo & Stinger
@@ -78,6 +82,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarKlaus by [SellsoTheHound](https://twitch.tv/sellsothehound)
 * nyavarAbwah - original by [RinnyBooo](https://vgen.co/rinnybooo), cropped for the emote
 * nyavarHeart by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-floating-kiss-ych-emote/2cbf3629-2f4a-4015-ba80-1a6ec83ef61d)
+* nyavarShy by [Lady Raerdrim](https://vgen.co/Lady_Raerdrim/portfolio/showcase/nyavarr-s-ych-emote/05ea0485-7a3d-4eb5-a352-7576b2f7de16)
 * nyavarThinking by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarKEK by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarBehave by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
