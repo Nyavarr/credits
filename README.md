@@ -64,7 +64,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 
 ### Emotes
 
-* nyavarLUL by [Clover](https://vgen.co/queenclovervt)
+* nyavarTanuKEK by [Clover](https://vgen.co/queenclovervt)
 * nyavarSad by [Clover](https://vgen.co/queenclovervt)
 * nyavarAngy by [Clover](https://vgen.co/queenclovervt)
 * nyavarRefreshed by [Clover](https://vgen.co/queenclovervt)
@@ -78,6 +78,12 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarKlaus by [SellsoTheHound](https://twitch.tv/sellsothehound)
 * nyavarAbwah - original by [RinnyBooo](https://vgen.co/rinnybooo), cropped for the emote
 * nyavarHeart by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-floating-kiss-ych-emote/2cbf3629-2f4a-4015-ba80-1a6ec83ef61d)
+* nyavarThinking by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarKEK by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarBehave by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarBleach by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarTear by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarSippy by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
