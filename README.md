@@ -89,6 +89,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarBleach by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarTear by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarSippy by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
+* nyavarTail by [Albert](https://vgen.co/albert_ow0)
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
