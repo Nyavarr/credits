@@ -70,7 +70,6 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 
 * nyavarTanuKEK by [Clover](https://vgen.co/queenclovervt)
 * nyavarSad by [Clover](https://vgen.co/queenclovervt)
-* nyavarAngy by [Clover](https://vgen.co/queenclovervt)
 * nyavarRefreshed by [Clover](https://vgen.co/queenclovervt)
 * nyavarEepy by [Clover](https://vgen.co/queenclovervt)
 * nyavarBellossomRave - original by [Clover](https://vgen.co/queenclovervt) animated through Twitch
@@ -90,6 +89,9 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarTear by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarSippy by [Carameltan_](https://vgen.co/Itsyogurl_Mel/portfolio/showcase/nyavarr-s-8-eachh-funny-emotes-ych-/0346ea57-9150-414d-aa2d-bb4a52dcb41b)
 * nyavarTail by [Albert](https://vgen.co/albert_ow0)
+* nyavarWave by [Miley](https://vgen.co/mileyvn_/portfolio/showcase/nyavarr-s-ych-wave-/6cd38fd2-003b-4ed4-b258-7a3ba7654af9)
+* nyavarAngy by [Severart](https://x.com/severarte)
+* nyavarHeadpats by [Albert](https://vgen.co/albert_ow0)
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
