@@ -50,13 +50,43 @@ My Magpie version of the VRChat Rex was converted to VRM by [Amoriel](https://vg
 
 ## Stream Pet
 
-The Tanuki Stream Pet is a Live 2D model created by [SellsoTheHound](https://twitch.tv/sellsothehound)
+The Tanyuki Stream Pet is a Live 2D model created by [SellsoTheHound](https://twitch.tv/sellsothehound)
 
 ## Reactive Avatar (on other's streams)
 
 The reactive Avatar (both the maid and furry nyavarr) were created by [Hiina](https://linktr.ee/hiinafuraido)
 
 ## Stream Assets
+
+### Alerts
+
+#### EmoteLab Character
+
+Many alerts were built using EmoteLab and the CoffeeBean model, with a custom rexture by the [Commisisters](https://vsona.co/commisisters/portfolio/showcase/nyavarr-s-emotelab-custom-texture-animated-emote-for-discord-twitch/3e23c0ea-5bcb-4b7e-9726-08f982e0dd93). Those alerts are:
+
+* Bit Cheer Alert
+* Raid
+* Hype Train Started
+* Hype Train New High Score
+* Daily Treat
+* FIRST
+* Hydrate
+* Throne Contribution
+* Throne Gift
+
+#### Soda-pop Dance
+
+Some alerts use the Soda-pop Dance animation by [Ichii](https://vsona.co/nyavarr/shirt-and-vest/gallery/soda-pop/a17012d0-8ac1-4a59-9345-6bba85a811f3)
+
+* New Follower
+
+#### Shikanokonoko Dance
+
+Some alerts use the Shika-noko-noko Dance animation by [Ichii](https://vsona.co/nyavarr/shirt-and-vest/gallery/shikanoko-dance/28544ac3-84ac-429c-93ac-02ee8b354c90)
+
+* Resubscription
+* New Subscriber
+* Goal Reached
 
 ### Logo & Stinger
 Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiverr.com/mogoslab/)!  
