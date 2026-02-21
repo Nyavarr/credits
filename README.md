@@ -88,6 +88,13 @@ Some alerts use the Shika-noko-noko Dance animation by [Ichii](https://vsona.co/
 * New Subscriber
 * Goal Reached
 
+### Embedded Animations
+
+Sometimes I embed animations into the stream to keep viewers attentive.  Some of those animations are:
+
+* The Mememe Dance by [Studio 39](https://vsona.co/nyavarr/shirt-and-vest/gallery/mememe-dance/8a53c048-5409-4535-8bf7-1e911f882285)
+* The Rabbit-Hole Pole Dance by [Sagu](https://vsona.co/nyavarr/shirt-and-vest/gallery/donut-hole-animation/9561963f-9c01-4aa0-b114-8c919141b2fa)
+
 ### Logo & Stinger
 Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiverr.com/mogoslab/)!  
 
