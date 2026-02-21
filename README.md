@@ -129,6 +129,7 @@ Logo and Logo Stingers (16:9, 9:16) were created by [Mogoslab](https://www.fiver
 * nyavarWave by [Miley](https://vgen.co/mileyvn_/portfolio/showcase/nyavarr-s-ych-wave-/6cd38fd2-003b-4ed4-b258-7a3ba7654af9)
 * nyavarAngy by [Severart](https://x.com/severarte)
 * nyavarHeadpats by [Albert](https://vgen.co/albert_ow0)
+* nyavarrCry, nyavarrCopium, nyavarrFrustrated and nyavarrTyping were created using EmoteLab with a custom texture by the [Commisisters](https://vsona.co/commisisters/portfolio/showcase/nyavarr-s-emotelab-custom-texture-animated-emote-for-discord-twitch/3e23c0ea-5bcb-4b7e-9726-08f982e0dd93)
 
 ### Subscription Badges
 * Badges by [PingusWonderland](https://www.etsy.com/shop/PingusWonderland)
