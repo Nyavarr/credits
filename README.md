@@ -35,12 +35,28 @@ My Magpie version of the VRChat Rex was converted to VRM by [Amoriel](https://vg
 ### Software
 
 * [VNyan by Suvidriel](https://suvidriel.itch.io/vnyan) powers my avatar, bonks & headpats
-* [Touch Portal](https://www.touch-portal.com/) acts as my stream deck and powers automations
 * [OBS Studio](https://obsproject.com/) powers my stream
 * [Aitum Vertical](https://aitum.tv/products/vertical) lets me create a vertical canvas for stream
 * [Aitum Multistream](https://aitum.tv/products/multi) lets me stream to multiple locations at once
-* [VTube Studio](https://denchisoft.com/) powers my stream pet's avatar
-* [VTS P.O.G.](https://eruben.itch.io/vts-pog) powers my stream pet's speech
+* [VRCFaceTracking](https://vrcft.io) for tracking my eyes and face in VR
+
+### Hardware
+* Check out my [PC build](https://pcpartpicker.com/user/Navarr/saved/#view=KhgpHx)
+* [Stream Deck](https://www.elgato.com/us/en/p/stream-deck-xl) helps me control scenes and perform automations
+* Pixel 10 XL Pro is my phone.  I use the Stream Deck app when doing VR streams to control scenes
+* iPhone XR is used for vtuber faceshape tracking
+* [Wave Link](https://www.elgato.com/us/en/s/wave-link) with the Wave:3 USB mic is how I do audio for video game streams
+* [Antlion Modmic Wireless](https://antlionaudio.com/products/modmic-wireless) is the mic I use for VR streams
+* For VR, I use either a Quest Pro or a Quest 3.  Most newer content is made using a Quest Pro for face and eye tracking
+* [Slime VR Trackers](https://slimevr.dev/) for Full-body tracking in VR
+* Switch 2 w/ Switch 2 Pro Controller for Nintendo games
+* [Okiolabs S2-4K document camera](https://www.okiolabs.com/product/okiocam-s2-4k/) for hand streams (like LEGO building!)
+
+#### Discontinued Software
+
+* [Touch Portal](https://www.touch-portal.com/) acted as my stream deck and powered automations prior to getting a Stream Deck
+* [VTube Studio](https://denchisoft.com/) powered my stream pet's avatar
+* [VTS P.O.G.](https://eruben.itch.io/vts-pog) powered my stream pet's speech
 
 ### Interactables
 
