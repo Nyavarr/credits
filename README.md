@@ -63,6 +63,7 @@ My Magpie version of the VRChat Rex was converted to VRM by [Amoriel](https://vg
 * Headpats and Bonk are the built-in VNyan assets
 * [3D Pride Hearts for VNyan by lunazera](https://ko-fi.com/s/536d3aa124)
 * [Cat coin dabloons for VNyan by poayo](https://ko-fi.com/s/a5a100db6e)
+* [Likes per Minute meter by Nyavarr](https://vgen.co/nyavarr/service/likes-per-minute-heart-widget-for-tiktok/0061012c-25ae-4bff-aaac-b6b9406a7ec4)
 
 ## Stream Pet
 
