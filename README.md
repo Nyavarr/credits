@@ -120,6 +120,7 @@ Logo was created by [Mogoslab](https://www.fiverr.com/mogoslab/)!
 
 ### Backgrounds
 
+* [Ah Eto Bleh (BRB Backround) by Odette](https://vsona.co/nyavarr/shirt-and-vest/gallery/odette-s-aa-eeto-bleh/bc5e4f72-f81f-4d91-b5ee-1aa8f1a411ed)
 * [Sakura Onsen by AestheticStudioCie](https://www.etsy.com/listing/1777924696/japanese-sakura-onsen-streaming)
 * [Sakura Park by TokyoArtTreasures](https://www.etsy.com/listing/1390323864/vtuber-animated-background-sakura-park)
 
