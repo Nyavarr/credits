@@ -2,6 +2,7 @@
 
 ## Profile Picture
 * The long sleeved white shirt profile picture is comissioned art by [ashleyy](https://vgen.co/eggromi)
+* The very orange flowy-haired profile picture is comissioned art by [Arrival](https://vsona.co/nyavarr/shirt-and-vest/gallery/headshot-by-arrival/f9a2b304-6024-4ecd-b805-6b94af8c7bc4)
 
 ## VRChat Avatar
 
