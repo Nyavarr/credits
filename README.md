@@ -64,6 +64,8 @@ My Magpie version of the VRChat Rex was converted to VRM by [Amoriel](https://vg
 * Headpats and Bonk are the built-in VNyan assets
 * [3D Pride Hearts for VNyan by lunazera](https://ko-fi.com/s/536d3aa124)
 * [Cat coin dabloons for VNyan by poayo](https://ko-fi.com/s/a5a100db6e)
+* [Googly eyes by Phwee](https://ko-fi.com/s/8aba7b0982)
+* [Cone of Shame by Phwee](https://ko-fi.com/s/5f224300fe)
 * [Likes per Minute meter by Nyavarr](https://vgen.co/nyavarr/service/likes-per-minute-heart-widget-for-tiktok/0061012c-25ae-4bff-aaac-b6b9406a7ec4)
 
 ## Stream Pet
@@ -112,6 +114,7 @@ Sometimes I embed animations into the stream to keep viewers attentive.  Some of
 
 * The Mememe Dance by [Studio 39](https://vsona.co/nyavarr/shirt-and-vest/gallery/mememe-dance/8a53c048-5409-4535-8bf7-1e911f882285)
 * The Rabbit-Hole Pole Dance by [Sagu](https://vsona.co/nyavarr/shirt-and-vest/gallery/donut-hole-animation/9561963f-9c01-4aa0-b114-8c919141b2fa)
+* The powering-up charging gif by [Reisuki](https://vsona.vgen.co/Reisuki/portfolio/showcase/nyavarr-s-animated-ych-battery-loading-/1bedb8a8-3d30-4ca1-a161-e368464ce31e)
 
 ### Logo
 Logo was created by [Mogoslab](https://www.fiverr.com/mogoslab/)!
